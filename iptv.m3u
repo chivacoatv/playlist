@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 resolution="854@480",chivacoatv (1080p)
-https://stream.gia.tv/giatv/giatv-Chivacoatv/Chivacoatv/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8
 #EXTINF:-1 resolution="854@480",NetChanel (1080p)
 https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1 resolution="854@480",Aguacate TV (1080p)
