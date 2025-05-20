@@ -2,7 +2,7 @@
 #EXTINF:-1 resolution="854@480",chivacoatv (1080p)
 https://stream.gia.tv/giatv/giatv-Chivacoatv/Chivacoatv/chunks.m3u8
 #EXTINF:-1 resolution="854@480",NetChanel (1080p)
-https://vdo.voxhdnet.com:3777/live/netchannellive.m3u8
+https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1 resolution="854@480",Aguacate TV (1080p)
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 resolution="854@480",TELEVEN 
